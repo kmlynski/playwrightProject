@@ -26,6 +26,10 @@ coverage
 node_modules
 bower_components
 
+# Test Results directory
+
+playwright-report
+
 # Editors
 .idea
 *.iml
